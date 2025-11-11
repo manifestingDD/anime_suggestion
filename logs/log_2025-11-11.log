@@ -1,0 +1,28 @@
+2025-11-11 03:21:38,479 - INFO - Data processing initialized
+2025-11-11 03:21:39,820 - INFO - Data loaded successfully for data processing
+2025-11-11 03:21:40,074 - INFO - Filer users complete
+2025-11-11 03:21:42,241 - INFO - Scaling done for ratings
+2025-11-11 03:21:42,543 - INFO - Encoding done for users and anime
+2025-11-11 03:21:43,748 - INFO - Data randomized and splitted succesfully
+2025-11-11 03:21:43,789 - INFO - user2user_encoded saved into processed dirctory
+2025-11-11 03:21:43,831 - INFO - user2user_decoded saved into processed dirctory
+2025-11-11 03:21:43,878 - INFO - anime2anime_encoded saved into processed dirctory
+2025-11-11 03:21:43,924 - INFO - anime2anime_decoded saved into processed dirctory
+2025-11-11 03:21:55,857 - INFO - All data processing artifacts saved
+2025-11-11 03:22:06,351 - INFO - DF and SYNOPSIS DF saved succesfully ...
+2025-11-11 03:22:06,354 - INFO - Data processing pipeline ran successfully!
+2025-11-11 03:22:07,423 - INFO - Model training & Comet ML initialized
+2025-11-11 03:22:07,635 - INFO - Data loaded succesfully for model training
+2025-11-11 03:22:07,692 - INFO - Successfully read the YAML file
+2025-11-11 03:22:07,692 - INFO - Loaded configuration from config.yaml
+2025-11-11 03:22:07,839 - INFO - Model created successfully!
+2025-11-11 03:23:33,210 - INFO - Model training completed!
+2025-11-11 03:23:33,210 - INFO - Model loss registered in Comet ML
+2025-11-11 03:23:33,211 - INFO - Model loss registered in Comet ML
+2025-11-11 03:23:33,211 - INFO - Model loss registered in Comet ML
+2025-11-11 03:23:33,211 - INFO - Model loss registered in Comet ML
+2025-11-11 03:23:33,211 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-11-11 03:23:33,439 - INFO - Model saved to artifacts/model/model.h5
+2025-11-11 03:23:33,446 - INFO - Extracting weigths for user_embedding completed
+2025-11-11 03:23:33,454 - INFO - Extracting weigths for anime_embedding completed
+2025-11-11 03:23:33,474 - INFO - User and Anime weights saved successfully

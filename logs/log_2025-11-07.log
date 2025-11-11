@@ -1,0 +1,39 @@
+2025-11-07 20:20:21,257 - INFO - Data processing initialized
+2025-11-07 20:24:07,658 - INFO - Data processing initialized
+2025-11-07 20:24:09,866 - INFO - Data loaded successfully for data processing
+2025-11-07 20:24:09,866 - ERROR - 'DataProcessor' object has no attribute 'filter_user'
+2025-11-07 20:25:09,431 - INFO - Data processing initialized
+2025-11-07 20:25:10,762 - INFO - Data loaded successfully for data processing
+2025-11-07 20:25:11,082 - INFO - Filer users complete
+2025-11-07 20:25:13,483 - INFO - Scaling done for ratings
+2025-11-07 20:25:13,786 - INFO - Encoding done for users and anime
+2025-11-07 20:25:15,555 - INFO - Data randomized and splitted succesfully
+2025-11-07 20:25:15,598 - INFO - user2user_encoded saved into processed dirctory
+2025-11-07 20:25:15,640 - INFO - user2user_decoded saved into processed dirctory
+2025-11-07 20:25:15,687 - INFO - anime2anime_encoded saved into processed dirctory
+2025-11-07 20:25:15,733 - INFO - anime2anime_decoded saved into processed dirctory
+2025-11-07 20:25:27,022 - INFO - All data processing artifacts saved
+2025-11-07 20:25:37,776 - INFO - DF and SYNOPSIS DF saved succesfully ...
+2025-11-07 20:25:37,779 - INFO - Data processing pipeline ran successfully!
+2025-11-07 22:20:16,653 - INFO - Model training initialized
+2025-11-07 22:21:04,796 - INFO - Model training initialized
+2025-11-07 22:21:05,854 - INFO - Data loaded succesfully for model training
+2025-11-07 22:21:05,902 - INFO - Successfully read the YAML file
+2025-11-07 22:21:05,902 - INFO - Loaded configuration from config.yaml
+2025-11-07 22:21:06,045 - ERROR - Error occurred during the model architecture
+2025-11-07 22:22:28,808 - INFO - Model training initialized
+2025-11-07 22:22:28,959 - INFO - Data loaded succesfully for model training
+2025-11-07 22:22:29,005 - INFO - Successfully read the YAML file
+2025-11-07 22:22:29,005 - INFO - Loaded configuration from config.yaml
+2025-11-07 22:22:29,124 - ERROR - Error occurred during the model architecture
+2025-11-07 22:23:07,118 - INFO - Model training initialized
+2025-11-07 22:23:07,224 - INFO - Data loaded succesfully for model training
+2025-11-07 22:23:07,270 - INFO - Successfully read the YAML file
+2025-11-07 22:23:07,271 - INFO - Loaded configuration from config.yaml
+2025-11-07 22:23:07,384 - INFO - Model created successfully!
+2025-11-07 22:24:33,140 - INFO - Model training completed!
+2025-11-07 22:24:33,141 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-11-07 22:24:33,248 - INFO - Model saved to artifacts/model/model.h5
+2025-11-07 22:24:33,255 - INFO - Extracting weigths for user_embedding completed
+2025-11-07 22:24:33,265 - INFO - Extracting weigths for anime_embedding completed
+2025-11-07 22:24:33,288 - INFO - User and Anime weights saved successfully

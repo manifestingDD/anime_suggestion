@@ -1,0 +1,31 @@
+2025-11-10 03:17:38,890 - INFO - Model training & Comet ML initialized
+2025-11-10 03:17:39,716 - INFO - Data loaded succesfully for model training
+2025-11-10 03:17:39,764 - INFO - Successfully read the YAML file
+2025-11-10 03:17:39,764 - INFO - Loaded configuration from config.yaml
+2025-11-10 03:17:39,889 - INFO - Model created successfully!
+2025-11-10 03:24:06,821 - INFO - Model training completed!
+2025-11-10 03:24:06,821 - INFO - Model loss registered in Comet ML
+2025-11-10 03:24:06,821 - INFO - Model loss registered in Comet ML
+2025-11-10 03:24:06,822 - INFO - Model loss registered in Comet ML
+2025-11-10 03:24:06,822 - INFO - Model loss registered in Comet ML
+2025-11-10 03:24:06,822 - INFO - Model loss registered in Comet ML
+2025-11-10 03:24:06,822 - INFO - Model loss registered in Comet ML
+2025-11-10 03:24:06,822 - INFO - Model loss registered in Comet ML
+2025-11-10 03:24:06,823 - INFO - Model loss registered in Comet ML
+2025-11-10 03:24:06,823 - INFO - Model loss registered in Comet ML
+2025-11-10 03:24:06,823 - INFO - Model loss registered in Comet ML
+2025-11-10 03:24:06,823 - INFO - Model loss registered in Comet ML
+2025-11-10 03:24:06,824 - INFO - Model loss registered in Comet ML
+2025-11-10 03:24:06,824 - INFO - Model loss registered in Comet ML
+2025-11-10 03:24:06,824 - INFO - Model loss registered in Comet ML
+2025-11-10 03:24:06,824 - INFO - Model loss registered in Comet ML
+2025-11-10 03:24:06,824 - INFO - Model loss registered in Comet ML
+2025-11-10 03:24:06,825 - INFO - Model loss registered in Comet ML
+2025-11-10 03:24:06,825 - INFO - Model loss registered in Comet ML
+2025-11-10 03:24:06,825 - INFO - Model loss registered in Comet ML
+2025-11-10 03:24:06,825 - INFO - Model loss registered in Comet ML
+2025-11-10 03:24:06,825 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-11-10 03:24:07,024 - INFO - Model saved to artifacts/model/model.h5
+2025-11-10 03:24:07,031 - INFO - Extracting weigths for user_embedding completed
+2025-11-10 03:24:07,039 - INFO - Extracting weigths for anime_embedding completed
+2025-11-10 03:24:07,063 - INFO - User and Anime weights saved successfully
