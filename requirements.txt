@@ -7,3 +7,4 @@ tensorflow
 scikit-learn
 comet_ml
 dvc
+dvc-gs

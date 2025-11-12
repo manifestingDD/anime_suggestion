@@ -1,0 +1,13 @@
+2025-11-12 02:50:27,265 - INFO - Data processing initialized
+2025-11-12 02:50:29,080 - INFO - Data loaded successfully for data processing
+2025-11-12 02:50:29,365 - INFO - Filer users complete
+2025-11-12 02:50:31,485 - INFO - Scaling done for ratings
+2025-11-12 02:50:31,781 - INFO - Encoding done for users and anime
+2025-11-12 02:50:33,534 - INFO - Data randomized and splitted succesfully
+2025-11-12 02:50:33,573 - INFO - user2user_encoded saved into processed dirctory
+2025-11-12 02:50:33,611 - INFO - user2user_decoded saved into processed dirctory
+2025-11-12 02:50:33,654 - INFO - anime2anime_encoded saved into processed dirctory
+2025-11-12 02:50:33,697 - INFO - anime2anime_decoded saved into processed dirctory
+2025-11-12 02:50:48,804 - INFO - All data processing artifacts saved
+2025-11-12 02:51:09,588 - INFO - DF and SYNOPSIS DF saved succesfully ...
+2025-11-12 02:51:09,595 - INFO - Data processing pipeline ran successfully!
