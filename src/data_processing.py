@@ -175,7 +175,7 @@ class DataProcessor:
             
             df = df[["anime_id" , "eng_version","Score","Genres","Episodes","Type","Premiered","Members"]]
             # Testing the DVC update
-            df.iloc[0, 1] = 'DVC Testing'
+            df.iloc[0, 1] = 'DVC Testing, version 2'
 
             df.to_csv(DF_PATH, index = False)
             synopsis_df.to_csv(SYNOPTIS_DF, index = False)
